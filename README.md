@@ -15,8 +15,7 @@ The analysis mirrors real world credit risk practices used in retail banking and
 
 ## Tools & Technologies
 - SQL (Google BigQuery)
-- Retail Credit Risk Analytics
-- Portfolio Segmentation & Scorecard Design
+
 
 ## Dataset
 UCI Credit Card Default Dataset(3,000 customers)
